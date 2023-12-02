@@ -6,7 +6,7 @@ To design a half subtractor and full subtractor circuit and verify its truth tab
 ## Developed by:
 Devadhaarini.D
 
-##Register Number:
+## Register Number:
 23006001
 
 ## Equipments Required:
